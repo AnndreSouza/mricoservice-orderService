@@ -19,8 +19,8 @@ Método: POST
 Enviar um json como este abaixo:
 ```
 {
-   "email": "lucas@teste.com",
-   "nome": "lucas dias lopes",
+   "email": "andre@teste.com",
+   "nome": "andre souza",
    "shippingAddress": "Rua teste",
    "produtos": [
        {
@@ -54,8 +54,8 @@ Método: GET
 Busque os orders passando um id na url. O retorno será o objeto existente
 ```
 {
-   "email": "lucas@teste.com",
-   "nome": "lucas dias lopes",
+   "email": "andre@teste.com",
+   "nome": "andre souza",
    "shippingAddress": "Rua teste",
    "produtos": [
        {
@@ -82,8 +82,8 @@ Método: POST
 Atualize os dados de order. Envie um objeto com os dados de order
 ```
 {
-   "email": "lucas@teste.com",
-   "nome": "lucas dias lopes",
+   "email": "andre@teste.com",
+   "nome": "andre souza",
    "shippingAddress": "Rua teste",
    "produtos": [
        {
